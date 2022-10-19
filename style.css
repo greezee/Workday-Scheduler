@@ -1,0 +1,27 @@
+.jumbotron {
+    font-family: 'Alice', serif;
+    color: white;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(44,44,135,1) 25%, rgba(125,172,181,1) 64%);
+}
+
+
+section {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.fa-save{
+    color: white;
+}
+
+.saveBtn {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(44,44,135,1) 25%, rgba(125,172,181,1) 64%);
+}
+
+.row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid white;
+  }
